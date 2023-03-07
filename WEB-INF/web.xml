@@ -9,7 +9,7 @@
 
     <servlet>
       <servlet-name>FrontServlet</servlet-name>
-      <servlet-class>servlet.FrontServlet</servlet-class>
+      <servlet-class>etu1748.framework.servlet.FrontServlet</servlet-class>
     </servlet>
     
     <servlet-mapping>
